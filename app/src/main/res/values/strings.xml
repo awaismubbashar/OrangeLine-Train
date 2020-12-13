@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orange Line Train</string>
+    <string name="cardview_height">150dp</string>
+    <string name="cardview_width">150dp</string>
+</resources>
